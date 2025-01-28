@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+DW+Pica:ital@0;1&display=swap');
+
+
 .im-fell-dw-pica-regular {
     font-family: "IM Fell DW Pica", serif;
     font-weight: 400;
@@ -14,4 +17,6 @@
 body {
     font-family: "IM Fell DW Pica", serif;
     margin: auto;
+    font-style: italic;
+    text-align: center;
 }
