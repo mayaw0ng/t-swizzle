@@ -12,6 +12,13 @@
     font-weight: 400;
     font-style: italic;
   }
+
+
+#title{
+    font-size: 300%;
+    color: #FFFFFF;
+    background-color: #455483;
+}
   
 
 body {
@@ -20,6 +27,19 @@ body {
     font-style: italic;
     text-align: center;
 }
+
+#folklore {color: #7e7e7e}
+#nineteen {color: #5785a9}
+#evermore {color: #61443a}
+#midnights {color: #455483}
+#red {color: #850000}
+#reputation {color: #1d1d1d}
+#lover {color: #fdb7db}
+#speaknow {color: #4f2058}
+#ttpd {color: #948c84}
+#fearless {color: #ddc477}
+#debut {color: #18a9c2}
+
 
 img {
     height: 20%;
