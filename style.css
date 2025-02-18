@@ -28,6 +28,10 @@ body {
     text-align: center;
 }
 
+#disclaimer {
+  opacity: 0;
+}
+
 #folklore {color: #7e7e7e}
 #nineteen {color: #5785a9}
 #evermore {color: #61443a}
